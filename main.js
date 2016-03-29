@@ -1,0 +1,1 @@
+window.firmata = require('firmata');
